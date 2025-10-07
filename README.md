@@ -22,4 +22,4 @@ Currently learning and working on projects that combine **technology, creativity
 
 ### 📫 Contact
 - ✉️ antoniomrm21@gmail.com  
-- 💼 [LinkedIn]([https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/antonio-manuel-rangel-moro-3a3949212/))  
+- 💼 [LinkedIn](https://www.linkedin.com/in/antonio-manuel-rangel-moro-3a3949212/)  
