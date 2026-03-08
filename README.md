@@ -23,5 +23,5 @@ Currently learning and working on projects that combine **technology, creativity
 
 
 ### 📫 Contact
-- ✉️ antoniomrm21@gmail.com  
+- ✉️ rmantoniomanuel.dev@proton.me  
 - 💼 [LinkedIn](https://www.linkedin.com/in/antonio-manuel-rangel-moro-3a3949212/)  
