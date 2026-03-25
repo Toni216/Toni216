@@ -1,19 +1,26 @@
+# Hey! I'm Antonio 👋
 
-# Hey! I'm Antonio
+I'm a **Web Application Development student (DAW)** interested in front-end development, Minecraft modding, and building things that combine **technology and creativity**. 🚀
 
-I'm a **Web Application Development student (DAW)** passionate about full-stack development, Minecraft modding, and programming in general. 🚀  
-Currently learning and working on projects that combine **technology, creativity, and gaming**.
+Currently sharpening my skills and working on personal projects while looking for **remote work opportunities**.
 
-### 🚀 Technologies & Tools
-- 💻 HTML, CSS, JavaScript, PHP, Java  
-- 🗄️ SQL and relational databases  
-- ⚙️ Git & GitHub  
-- 🔮 Minecraft Modding (Java + Forge/NeoForge)  
+---
 
-### 🛠️ Featured Projects 
-- 📂 [Personal Portfolio]() – My upcoming personal website.
-- 🧱 [CipolloLand](https://github.com/Toni216/CipolloLand) - My upcoming website about a series of Minecraft servers with friends.
-- 🗺️ [Mundo]() - My upcoming website about a world i created.
+### 🛠️ Technologies & Tools
+
+- 💻 HTML, CSS, JavaScript, Java
+- ⚙️ Git & GitHub
+- 🔮 Minecraft Modding (Java + NeoForge)
+
+---
+
+### 🚀 Featured Projects
+
+- 📂 [Personal Portfolio]() *(coming soon)* — My personal website.
+- 🧱 [CipolloLand](https://github.com/Toni216/CipolloLand) *(coming soon)* — Website about a series of Minecraft servers with friends.
+- 🗺️ [Mundo]() *(coming soon)* — Website about a world I created.
+
+---
 
 ### Github Stats
 
