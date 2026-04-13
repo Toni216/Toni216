@@ -16,8 +16,11 @@ Currently sharpening my skills and working on personal projects while looking fo
 
 ### 🚀 Featured Projects
 
-- 📂 [Personal Portfolio]() *(coming soon)* — My personal website.
+- 🧩 [Prefix Tag](https://github.com/Toni216/Prefix-Tag) — NeoForge mod that adds a customizable prefix next to the player name.
+- 🗺️ [Zone Difficulty]() *(in development)* — Mod that scales difficulty based on distance from spawn and per-player progression.
+- 🧟 [Origins: Zombie Apocalypse]() *(in development)* — Origins addon themed around a zombie apocalypse survival experience.
 - 🧱 [CipolloLand](https://github.com/Toni216/CipolloLand) *(coming soon)* — Website about a series of Minecraft servers with friends.
+- 📂 [Personal Portfolio]() *(coming soon)* — My personal website.
 - 🗺️ [Mundo]() *(coming soon)* — Website about a world I created.
 
 ---
