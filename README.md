@@ -17,7 +17,7 @@ Currently sharpening my skills and working on personal projects while looking fo
 ### 🚀 Featured Projects
 
 - 🧩 [Prefix Tag](https://github.com/Toni216/Prefix-Tag) — Forge mod that adds a customizable prefix next to the player name.
-- 🗺️ [Zone Difficulty]() *(in development)* — Mod that scales difficulty based on distance from spawn and per-player progression.
+- 🗺️ [Don't Go Too Far](https://github.com/Toni216/Don-t-Go-Too-Far) — Mod that scales difficulty based on distance from spawn and per-player progression.
 - 🧟 [Origins: Zombie Apocalypse]() *(in development)* — Origins addon themed around a zombie apocalypse survival experience.
 - 🧱 [CipolloLand](https://github.com/Toni216/CipolloLand) *(coming soon)* — Website about a series of Minecraft servers with friends.
 - 📂 [Personal Portfolio]() *(coming soon)* — My personal website.
