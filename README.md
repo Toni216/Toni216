@@ -18,7 +18,8 @@ Currently sharpening my skills and working on personal projects while looking fo
 
 - 🧩 [Prefix Tag](https://github.com/Toni216/Prefix-Tag) — Forge mod that adds a customizable prefix next to the player name.
 - 🗺️ [Don't Go Too Far](https://github.com/Toni216/Don-t-Go-Too-Far) — Mod that scales difficulty based on distance from spawn and per-player progression.
-- 🏛️ [Column of Destiny]() *(in development)* 
+- 🏛️ [Column of Destiny]() *(in development)*
+- 🐷 [Animals Zombie] *(in development)*
 - 💉 [Zombie Drugs]() *(in development)* 
 - 🧟 [Origins: Zombie Apocalypse]() *(in development)* — Origins addon themed around a zombie apocalypse survival experience.
 - 🧱 [CipolloLand](https://github.com/Toni216/CipolloLand) *(coming soon)* — Website about a series of Minecraft servers with friends.
