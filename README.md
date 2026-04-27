@@ -23,8 +23,8 @@ Currently sharpening my skills and working on personal projects while looking fo
 -  [Prefix Tag](https://github.com/Toni216/Prefix-Tag) — Forge mod that adds a customizable prefix next to the player name.
 -  [Don't Go Too Far](https://github.com/Toni216/Don-t-Go-Too-Far) — Mod that scales difficulty based on distance from spawn and per-player progression.
 -  [Utility Areas](https://github.com/Toni216/Utility-Areas) -
--  [Chat & logs Discord] (
 -  [Animals Zombie] *(in development)* - 
+-  [Chat & logs Discord] *(in development)*
 -  [Column of Destiny] *(in development)* - 
 -  [Zombie Drugs] *(coming soon)* - 
 -  [Origins: Zombie Apocalypse] *(in development)* — Origins addon themed around a zombie apocalypse survival experience.
