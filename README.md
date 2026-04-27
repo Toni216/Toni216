@@ -7,24 +7,29 @@ Currently sharpening my skills and working on personal projects while looking fo
 ---
 
 ### 🛠️ Technologies & Tools
-
-- 💻 HTML, CSS, JavaScript, Java
-- ⚙️ Git & GitHub
-- 🔮 Minecraft Modding (Java + NeoForge)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Forge](https://img.shields.io/badge/Forge-Modding-1DB954?style=for-the-badge&logo=curseforge&logoColor=white)
 
 ---
 
 ### 🚀 Featured Projects
 
-- 🧩 [Prefix Tag](https://github.com/Toni216/Prefix-Tag) — Forge mod that adds a customizable prefix next to the player name.
-- 🗺️ [Don't Go Too Far](https://github.com/Toni216/Don-t-Go-Too-Far) — Mod that scales difficulty based on distance from spawn and per-player progression.
-- 🏛️ [Column of Destiny]() *(in development)*
-- 🐷 [Animals Zombie] *(in development)*
-- 💉 [Zombie Drugs]() *(in development)* 
-- 🧟 [Origins: Zombie Apocalypse]() *(in development)* — Origins addon themed around a zombie apocalypse survival experience.
-- 🧱 [CipolloLand](https://github.com/Toni216/CipolloLand) *(coming soon)* — Website about a series of Minecraft servers with friends.
-- 📂 [Personal Portfolio]() *(coming soon)* — My personal website.
-- 🗺️ [Mundo]() *(coming soon)* — Website about a world I created.
+-  [Prefix Tag](https://github.com/Toni216/Prefix-Tag) — Forge mod that adds a customizable prefix next to the player name.
+-  [Don't Go Too Far](https://github.com/Toni216/Don-t-Go-Too-Far) — Mod that scales difficulty based on distance from spawn and per-player progression.
+-  [Utility Areas](https://github.com/Toni216/Utility-Areas) -
+-  [Chat & logs Discord] (
+-  [Animals Zombie] *(in development)* - 
+-  [Column of Destiny] *(in development)* - 
+-  [Zombie Drugs] *(coming soon)* - 
+-  [Origins: Zombie Apocalypse] *(in development)* — Origins addon themed around a zombie apocalypse survival experience.
+-  [CipolloLand](https://github.com/Toni216/CipolloLand) *(in development)* — Website about a series of Minecraft servers with friends.
+-  [Personal Portfolio]() *(coming soon)* — My personal website.
 
 ---
 
