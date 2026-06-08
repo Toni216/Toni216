@@ -22,12 +22,12 @@ Currently sharpening my skills and working on personal projects while looking fo
 
 -  [Prefix Tag](https://github.com/Toni216/Prefix-Tag) — Forge mod that adds a customizable prefix next to the player name.
 -  [Don't Go Too Far](https://github.com/Toni216/Don-t-Go-Too-Far) — Mod that scales difficulty based on distance from spawn and per-player progression.
--  [Utility Areas](https://github.com/Toni216/Utility-Areas) -
+-  [Origins: Zombie Apocalypse](https://github.com/Toni216/Origins-CipolloLand-Apocalypse) — Origins addon themed around a zombie apocalypse for my Minecraft Server.
+-  [Utility Areas](https://github.com/Toni216/Utility-Areas) - different types of createable areas
 -  [Animals Zombie] *(in development)* - 
 -  [Chat & logs Discord] *(in development)*
 -  [Column of Destiny] *(in development)* - 
 -  [Zombie Drugs] *(coming soon)* - 
--  [Origins: Zombie Apocalypse] *(in development)* — Origins addon themed around a zombie apocalypse survival experience.
 -  [CipolloLand](https://github.com/Toni216/CipolloLand) *(in development)* — Website about a series of Minecraft servers with friends.
 -  [Personal Portfolio]() *(coming soon)* — My personal website.
 
