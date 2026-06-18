@@ -73,6 +73,7 @@ With ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=ope
 ### 📊 GitHub Stats
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Toni216&theme=aura&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=toni216&layout=compact)
 
 ---
