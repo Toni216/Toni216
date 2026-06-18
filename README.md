@@ -52,12 +52,12 @@ Currently sharpening my skills and working on personal projects while looking fo
 #### 🔮 Minecraft Mods
 
 **[Prefix Tag](https://github.com/Toni216/PrefixTag)** — Adds a customizable prefix next to the player name.  
-With ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Forge](https://img.shields.io/badge/Forge-Modding-1DB954?style=flat-square&logo=curseforge&logoColor=white) on ![Modrinth Downloads](https://img.shields.io/modrinth/dt/alIqocl4?style=flat-square&logo=modrinth&label=Modrinth&color=%2300A31E&link=https%3A%2F%2Fmodrinth.com%2Fmod%2Fprefix-tag)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) & ![Forge](https://img.shields.io/badge/Forge-Modding-1DB954?style=flat-square&logo=curseforge&logoColor=white) on ![Modrinth Downloads](https://img.shields.io/modrinth/dt/alIqocl4?style=flat-square&logo=modrinth&label=Modrinth&color=%2300A31E&link=https%3A%2F%2Fmodrinth.com%2Fmod%2Fprefix-tag)
  & ![CurseForge Downloads](https://img.shields.io/curseforge/dt/1511520?style=flat-square&logo=curseforge&label=Curseforge&color=FF7632&link=https%3A%2F%2Fwww.curseforge.com%2Fminecraft%2Fmc-mods%2Fprefix-tag)
 
 
 **[Don't Go Too Far](https://github.com/Toni216/Don-t-Go-Too-Far)** — Mod that scales difficulty based on distance from spawn and per-player progression.  
-With ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Forge](https://img.shields.io/badge/Forge-Modding-1DB954?style=flat-square&logo=curseforge&logoColor=white) on ![Modrinth Downloads](https://img.shields.io/modrinth/dt/z2GGIaUu?style=flat-square&logo=modrinth&label=Modrinth&color=%2300A31E&link=https%3A%2F%2Fmodrinth.com%2Fmod%2Fdont-go-too-far) & ![CurseForge Downloads](https://img.shields.io/curseforge/dt/1517698?style=flat-square&logo=curseforge&label=Curseforge&color=FF7632&link=https%3A%2F%2Fwww.curseforge.com%2Fminecraft%2Fmc-mods%2Fdont-go-too-far)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) & ![Forge](https://img.shields.io/badge/Forge-Modding-1DB954?style=flat-square&logo=curseforge&logoColor=white) on ![Modrinth Downloads](https://img.shields.io/modrinth/dt/z2GGIaUu?style=flat-square&logo=modrinth&label=Modrinth&color=%2300A31E&link=https%3A%2F%2Fmodrinth.com%2Fmod%2Fdont-go-too-far) & ![CurseForge Downloads](https://img.shields.io/curseforge/dt/1517698?style=flat-square&logo=curseforge&label=Curseforge&color=FF7632&link=https%3A%2F%2Fwww.curseforge.com%2Fminecraft%2Fmc-mods%2Fdont-go-too-far)
 
 
 **[Origins: Zombie Apocalypse](https://github.com/Toni216/Origins-CipolloLand-Apocalypse)** — Origins addon themed around a fantasy zombie apocalypse for my Minecraft Server.  
