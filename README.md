@@ -51,7 +51,7 @@ Currently sharpening my skills and working on personal projects while looking fo
 
 #### 🔮 Minecraft Mods
 
-**[Prefix Tag](https://github.com/Toni216/PrefixTag)** — Adds a customizable prefix next to the player name.  
+**[Prefix Tag](https://github.com/Toni216/Prefix-Tag)** — Adds a customizable prefix next to the player name.  
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) & ![Forge](https://img.shields.io/badge/Forge-Modding-1DB954?style=flat-square&logo=curseforge&logoColor=white) on ![Modrinth Downloads](https://img.shields.io/modrinth/dt/alIqocl4?style=flat-square&logo=modrinth&label=Modrinth&color=%2300A31E&link=https%3A%2F%2Fmodrinth.com%2Fmod%2Fprefix-tag)
  & ![CurseForge Downloads](https://img.shields.io/curseforge/dt/1511520?style=flat-square&logo=curseforge&label=Curseforge&color=FF7632&link=https%3A%2F%2Fwww.curseforge.com%2Fminecraft%2Fmc-mods%2Fprefix-tag)
 
