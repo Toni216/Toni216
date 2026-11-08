@@ -75,7 +75,7 @@ Currently sharpening my skills and working on personal projects while looking fo
 
 ### 📊 GitHub Stats
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=anuraghazra&layout=donut-vertical&langs_count=4&theme=dark_github)](https://github-stats-extended.vercel.app/api/top-langs?username=Toni216&layout=donut-vertical&langs_count=4&theme=dark_github)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=Toni216&layout=donut-vertical&langs_count=4&theme=dark_github)](https://github-stats-extended.vercel.app/api/top-langs?username=Toni216&layout=donut-vertical&langs_count=4&theme=dark_github)
 
 ---
 
